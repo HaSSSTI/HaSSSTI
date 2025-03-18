@@ -1,14 +1,6 @@
 # Hasti Nafisi - AI & ML Scientist
 
-Welcome to my GitHub repository! I am an accomplished AI & Machine Learning Scientist with a strong background in applied mathematics, computer science, and data science. This repository hosts my professional CV and showcases my expertise through projects and skills developed over years of research and industry experience.
-
-## About Me
 - **Role**: AI & ML Scientist | Data Scientist
-- **Specializations**: Machine Learning, Large Language Models (LLMs), Statistical Modeling, Financial Data Science, and Astronomy Applications
-- **Education**: 
-  - M.Sc. Applied Mathematics & Computer Science (Montreal University and Mila, 2021-2024)
-  - M.Sc. Financial Mathematics (Science and Culture University, Tehran, 2013-2015)
-  - B.Sc. Applied Mathematics (Alzahra University, Tehran, 2009-2013)
 
 ## Areas of Expertise
 - **Machine Learning & AI**:
@@ -38,8 +30,3 @@ Welcome to my GitHub repository! I am an accomplished AI & Machine Learning Scie
 - **Cryptocurrency Price Prediction**  
   - Designed LSTM models for stock market forecasting, achieving a 5% accuracy improvement. (Coin Plus, 2017-2020)
 
-## Contact
-For professional inquiries, please reach out via [LinkedIn](https://www.linkedin.com/in/hasti-nafisi) or email at [hasti.nafisi20@gmail.com](mailto:hasti.nafisi20@gmail.com).
-
-## License
-This repository is for personal use. Content is protected under personal copyright unless otherwise stated.
